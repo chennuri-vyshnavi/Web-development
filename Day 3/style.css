@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: sans-serif;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 10px;
+}
+
+.navbar a {
+    color: black;
+    text-decoration: none;
+
+    padding: 10px 30px;
+}
+
+
+.hero {
+    height: 800px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgb(33, 2, 7);
+    background-image: url('https://i.pinimg.com/1200x/19/8b/2f/198b2f01e73b905772279616eccc7c65.jpg');
+    background-size: cover;
+}

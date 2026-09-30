@@ -1,0 +1,15 @@
+h1{
+    color: red
+}
+.para{
+    border: 10px solid black;
+    text-color: green;
+
+padding: 20px;
+margin: 20px;
+width: 60%;
+text-align: center;
+text-decoration: underline;
+text-transform: capitalize;
+/* text-shadow: 2px 2px 5px blue; */
+}
